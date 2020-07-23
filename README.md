@@ -5,7 +5,7 @@ My example for Capturing the Flag. Suitable for TDS style games as well as for s
 
 # Control
 * WASD - moving
-* Left Mouse Button - Shoot
+* Left Mouse Button - Shot
 * F1 - Help
 * F4 - Switch Fullscreen / Windowed mode
 * F9 - Screenshot (saved next to the game file)
